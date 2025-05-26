@@ -105,15 +105,11 @@ This project demonstrates a complete ETL (Extract, Transform, Load) pipeline usi
 
 ---
 
-## 📷 Sample Output Preview
+## OUTPUT
 
-A few transformed columns:
-
-```plaintext
-Id  EmployeeName     cat__JobTitle_ZOO CURATOR  cat__Agency_San Francisco  ...
-1   NATHANIEL FORD         1.0                      1.0
-2   GARY JIMENEZ           1.0                      1.0
-...
-```
-
+![Image](https://github.com/user-attachments/assets/aa0bc49f-3eb7-48dd-add9-357c5ad01ba6)
+![Image](https://github.com/user-attachments/assets/0b5d8148-07b7-4bfe-8177-2b259cbdfd25)
+![Image](https://github.com/user-attachments/assets/a5be3579-e26e-465b-8f13-1f8824de9cb0)
+![Image](https://github.com/user-attachments/assets/c1d60b4f-0911-43a7-a53d-0998c531956b)
+![Image](https://github.com/user-attachments/assets/fa8d3b66-8767-4f33-ac32-49b2a4fe7d65)
 
